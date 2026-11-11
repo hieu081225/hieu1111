@@ -34,3 +34,4 @@ cv2.putText(
 cv2.imwrite("ket_qua_ai_tu_huan_luyen.jpg", image)
 
 print("So ga AI phat hien:", count)
+#abc
